@@ -1,1 +1,1 @@
-# Handles Gmail API authentication and draft creation
+# Gmail API integration logic

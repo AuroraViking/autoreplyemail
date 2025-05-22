@@ -1,1 +1,1 @@
-# Formats prompts and fetches replies from OpenAI
+# OpenAI reply generator

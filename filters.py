@@ -1,1 +1,1 @@
-# Filters out spam and newsletters
+# Spam/newsletter filter logic

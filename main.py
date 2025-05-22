@@ -1,1 +1,1 @@
-# Entry point for the Aurora Reply Assistant
+# Main logic goes here

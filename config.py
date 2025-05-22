@@ -1,1 +1,1 @@
-# Stores config values and keys (use .env or secure store)
+# API key and config storage
